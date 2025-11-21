@@ -326,7 +326,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6068894212408624161, guid: bcb20b1babcb52b48a7cd0429aea37a6, type: 3}
       propertyPath: m_Name
-      value: triggerbox (1)
+      value: triggerboxmusik
       objectReference: {fileID: 0}
     - target: {fileID: 7179436183001567282, guid: bcb20b1babcb52b48a7cd0429aea37a6, type: 3}
       propertyPath: m_Color.b
@@ -626,7 +626,7 @@ GameObject:
   - component: {fileID: 1780143459}
   - component: {fileID: 1780143458}
   m_Layer: 0
-  m_Name: audiosource
+  m_Name: MusikSpelare_scen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1388,7 +1388,7 @@ GameObject:
   - component: {fileID: 1947046639}
   - component: {fileID: 1947046638}
   m_Layer: 0
-  m_Name: ---Musik---
+  m_Name: ---Musik_Och_Ljud---
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1526,7 +1526,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6068894212408624161, guid: bcb20b1babcb52b48a7cd0429aea37a6, type: 3}
       propertyPath: m_Name
-      value: triggerbox
+      value: triggerboxmusik
       objectReference: {fileID: 0}
     - target: {fileID: 8187374254429412807, guid: bcb20b1babcb52b48a7cd0429aea37a6, type: 3}
       propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.size
